@@ -1,0 +1,7 @@
+{
+  "require": {
+    "google/cloud-core": "^1.52",
+    "guzzlehttp/guzzle": "^7.8",
+    "symfony/yaml": "^6.0"
+  }
+}
