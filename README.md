@@ -6,7 +6,7 @@ Simple sample for sending prompts to
 - Claude
 - OpenAI
 
-Generated with Windsurf IDE and Claude with a simple [prompt](ai.md),
+Generated with Windsurf IDE and Claude with a simple [prompt](ai.md).
 
 As of 2024-12-26 the Gemini sample works instantly with a free account and a API key from https://aistudio.google.com/app/apikey. Now I will add a little intelligence to my apps;-)
 
